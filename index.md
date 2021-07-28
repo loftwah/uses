@@ -24,43 +24,32 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
       -+sssssssssssssssssyyyssss+-
         `:+ssssssssssssssssss+:`
             .-/+oossssoo+/-.
-
-
- deanl@Thundersword   ~                                                                         655  17:09:32 
 ```
 
-### Terminal and Editors
+### Applications
 
-- Windows Terminal Preview
-- zsh
-- VSCode
+- Ansible
+- AWS
 - Bitwarden
 - Google Chrome
-- Joplin
-- Microsoft Excel
-- Microsoft Teams
-- Rambox Pro
-- Studio One
-
-### Web
-
-- AWS
+- Google Sheets
 - Canva
 - Cloudflare
 - DigitalOcean
+- Docker
+- Facebook
 - GitHub
 - Grammarly
-
-### Frameworks, Languages, Software and Tools
-
-- Ansible
-- Docker
 - HTML
+- Instagram
 - JavaScript
-- Nextcloud
 - Nginx
 - Nginx Proxy Manager
 - PHP
 - Python
 - TypeScript
+- VSCode
+- Studio One
+- Windows Terminal Preview
 - WordPress
+- zsh
