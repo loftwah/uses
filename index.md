@@ -43,6 +43,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
 - HTML
 - Instagram
 - JavaScript
+- LinkedIn
 - Nginx
 - Nginx Proxy Manager
 - PHP
