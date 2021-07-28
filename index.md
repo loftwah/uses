@@ -26,7 +26,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
             .-/+oossssoo+/-.
 ```
 
-### Applications
+### Applications, Services & Tools
 
 - Ansible
 - AWS
