@@ -1,38 +1,10 @@
 # @Loftwah | Dean Lofts Uses
 
-## Desktop: deanl@Thundersword
-
-```bash
-
-            .-/+oossssoo+/-.               deanl@Thundersword
-        `:+ssssssssssssssssss+:`           ------------------
-      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 18.04.5 LTS on Windows 10 x86_64
-    .ossssssssssssssssssdMMMNysssso.       Kernel: 5.4.72-microsoft-standard-WSL2
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Uptime: 1 day, 21 hours, 37 mins
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Packages: 928
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Shell: zsh 5.4.2
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Terminal: /dev/pts/2
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   CPU: Intel i7-8700 (12) @ 3.192GHz
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Memory: 1061MiB / 38364MiB
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
-  +sssssssssdmydMMMMMMMMddddyssssssss+
-   /ssssssssssshdmNNNNmyNMMMMhssssss/
-    .ossssssssssssssssssdMMMNysssso.
-      -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.
-```
-
-### Applications, Services & Tools
-
 - Ansible
 - AWS
+- Bash
 - Bitwarden
-- Google Chrome
-- Google Sheets
+- Chrome (Google)
 - Canva
 - Cloudflare
 - DigitalOcean
@@ -43,14 +15,20 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
 - HTML
 - Instagram
 - JavaScript
+- Jitsi Meet
+- Koji
 - LinkedIn
+- Medium
 - Nginx
-- Nginx Proxy Manager
+- Nocodb
 - PHP
 - Python
 - TypeScript
-- VSCode
+- VSCode (Microsoft)
+- Streamlabs OBS
 - Studio One
 - Windows Terminal Preview
+- Wireguard
 - WordPress
+- YouTube
 - zsh
