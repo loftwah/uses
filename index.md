@@ -28,6 +28,7 @@
 - Streamlabs OBS
 - Studio One
 - Ubuntu
+- Windows
 - Windows Terminal Preview
 - Wireguard
 - WordPress
