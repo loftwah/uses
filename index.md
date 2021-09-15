@@ -27,6 +27,7 @@
 - VSCode (Microsoft)
 - Streamlabs OBS
 - Studio One
+- Ubuntu
 - Windows Terminal Preview
 - Wireguard
 - WordPress
